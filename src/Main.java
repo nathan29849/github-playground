@@ -4,6 +4,5 @@ public class Main {
         System.out.println("step1");
         System.out.println("step2");
         System.out.println("step3");
-        System.out.println("conflict");
     }
 }
